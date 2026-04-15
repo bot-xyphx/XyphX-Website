@@ -1,4 +1,3 @@
-import { updatePortfolioVisitors } from '@/utils/visitors';
 import React, { useEffect } from 'react';
 
 const SplashScreen: React.FC = () => {

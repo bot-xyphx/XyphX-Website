@@ -35,7 +35,7 @@ export default function Footer() {
               <h3 className="text-lg font-semibold mb-4 text-purple-300">Contact Us</h3>
               <div className="flex items-center justify-center gap-2 text-gray-300 hover:text-purple-400 transition-colors">
                 <Mail className="h-4 w-4" />
-                <span>xyphx.company@gmail.com</span>
+                <span>help.xyphx@outlook.com</span>
               </div>
             </div>
             

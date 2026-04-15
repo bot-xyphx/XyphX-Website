@@ -8,8 +8,8 @@ import About from '@/components/landing/About';
 import Services from '@/components/landing/Services';
 import Vision from '@/components/landing/Vision';
 import Roadmap from '@/components/landing/Roadmap';
+import Sponsors from '@/components/landing/Sponsors';
 import Products from '@/components/landing/Products';
-import Join from '@/components/landing/Join';
 import Footer from '@/components/landing/Footer';
 import Background from '@/components/landing/Background';
 
@@ -20,11 +20,11 @@ const Index = () => {
       <Background />
       <Hero/>
       <About/>
+      <Sponsors/>
       <Products/>
       <Vision/>
       <Roadmap/>
       <Services/>
-      <Join/>
      <Footer/>
     </div>
   );
